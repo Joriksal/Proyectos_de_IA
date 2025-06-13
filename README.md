@@ -1,1 +1,1 @@
-# Proyecto_IA
+# Proyectos_de_IA
