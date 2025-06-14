@@ -3,3 +3,4 @@ stable-baselines3==1.8.0
 numpy==1.24.4
 opencv-python==4.7.0.72
 torch==2.0.1
+tensorboard
